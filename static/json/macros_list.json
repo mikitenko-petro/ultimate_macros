@@ -1,0 +1,15 @@
+[
+    {
+        "name": "days bygone macros",
+        "actions": [
+            {
+                "type": "click_on_image",
+                "tracking_image": "C:/Users/user/Desktop/ultimate_macros/static/images/downloaded_images/days_bygone_icon.PNG"
+            }
+        ]
+    },
+    {
+        "name": "idle skiling",
+        "actions": []
+    }
+]
